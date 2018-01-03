@@ -1,5 +1,9 @@
 # Express-Database_v1
 
+# SQLiteを用意する
+
+・http://localhost:3000/helloにアクセスして、データベースが表示されていればOK
+
 ![default](https://user-images.githubusercontent.com/28942665/34532614-1a741046-f0fa-11e7-8bdd-22f9dba4b960.JPG)
 
 ***
