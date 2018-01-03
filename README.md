@@ -1,7 +1,5 @@
 # Express-Database_v1
 
-# SQLiteを用意する
-
 ・`localhost:3000/hello`にアクセスして自分で作成したデータベースをブラウザに表示させる
 
 ・変更しているファイルはhello.ejsとhello.jsのみ
@@ -11,10 +9,13 @@
 ***
 
 # SQLiteを用意する
+
 https://www.sqlite.org/download.html
+
 Precompiled Binaries for WindowsをDLする
 
 # DB Brouwser for SQliteを用意する
+
 http://sqlitebrowser.org/
 
 # データベースを設計する
