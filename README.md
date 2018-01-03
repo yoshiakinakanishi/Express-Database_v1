@@ -13,9 +13,14 @@ http://sqlitebrowser.org/
 
 # ダミーのデータベースを設計する
 ・DB Browser画面を起動する
+
 ・New Databaseをクリックする
+
 ・ファイル名を入力する　mydb.sqlite3
+
 ・上段の空欄にテーブル名のタイトルを入力する　mydata
+
 ・Add filesのタブをクリック
+
 ・フィールドを作成する
 
