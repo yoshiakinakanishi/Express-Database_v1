@@ -11,7 +11,8 @@ Precompiled Binaries for WindowsをDLする
 # DB Brouwser for SQliteを用意する
 http://sqlitebrowser.org/
 
-# ダミーのデータベースを設計する
+# データベースを設計する
+
 ・DB Browser画面を起動する
 
 ・New Databaseをクリックする
@@ -22,5 +23,20 @@ http://sqlitebrowser.org/
 
 ・Add filesのタブをクリック
 
-・フィールドを作成する
+・フィールドを下記のように作成する
 
+![default](https://user-images.githubusercontent.com/28942665/34533039-c345684a-f0fb-11e7-8bc4-f82b4d0d06d4.JPG)
+
+・テーブルを保存する　OK->Write Change
+
+# テーブルにデータを追加する
+
+すでにid/name/mail/ageフィールドを作ったので、適当な任意のデータを保存する
+
+・Browse Dataタブをクリック
+
+・New Recordボタンをクリック
+
+・任意のデータを4つほど作る
+
+・Write　Changesタブをクリックして、データを保存して、DB Browserを終了
