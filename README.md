@@ -2,7 +2,8 @@
 
 # SQLiteを用意する
 
-・http://localhost:3000/helloにアクセスして、データベースが表示されていればOK
+・`localhost:3000/hello`にアクセスして自分で作成したデータベースをブラウザに表示させる
+・変更しているファイルはhello.ejsとhello.jsのみ
 
 ![default](https://user-images.githubusercontent.com/28942665/34532614-1a741046-f0fa-11e7-8bdd-22f9dba4b960.JPG)
 
